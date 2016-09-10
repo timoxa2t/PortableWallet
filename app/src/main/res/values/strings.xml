@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="textView3">Залишок</string>
+    <string name="textView2">Витрати</string>
+    <string name="textView4">Добові</string>
+    <string name="add_bonus">Бонус</string>
+
+</resources>
